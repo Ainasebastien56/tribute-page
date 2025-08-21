@@ -66,7 +66,7 @@ img{
 
 #quote{
   font-style:italic;
-  text-align:center
+  text-align:center;
 }
 
 #wikipedia{
@@ -74,7 +74,7 @@ img{
   justify-content:center;
 }
 #wikipedia span{
-  font-size:1rem;
+  font-size:1.5rem;
   text-align:center;
 }
 #wikipedia a{
