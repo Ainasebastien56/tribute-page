@@ -9,7 +9,7 @@ html{
 
 main{
   background-color:#dad7cd;
-  width:90%;
+  width:98%;
   margin:20px auto;
   padding:30px 15px;
 }
@@ -28,8 +28,11 @@ img{
 }
 
 #img-div{
-  background-color:#fff;
-  padding: 20px 3rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:#fff;
+    padding: 20px 50px;
 }
 #img-caption{
   text-align:center;
